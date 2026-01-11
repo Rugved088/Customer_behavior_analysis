@@ -1,14 +1,12 @@
 # Customer_behavior_analysis
 Data analytics project -  Used Python (Numpy, Pandas), SQL, and Power Bi for showcasing the Customer Behavior Analysis.
-This project demonstrates an end-to-end data analytics workflow, covering data loading, exploration, cleaning, querying, and visualization.
-The goal is to transform raw data into meaningful insights using Python, SQL (MySQL), and Power BI, and present results through an interactive dashboard and a structured report.
 
-Overview
+#Overview
 
 This project demonstrates an end-to-end data analytics workflow, from raw data ingestion to insight-driven visualization.
 The objective is to convert structured business data into actionable insights using Python, MySQL, and Power BI, supported by an interactive dashboard and a summary report.
 
-2. Dataset
+# Dataset
 
 Structured business dataset focused on customer behavior and transactions
 
@@ -16,7 +14,7 @@ Key fields include customer details, purchase data, discounts, and ratings
 
 Source: Public / simulated CSV dataset
 
-3. Tools & Technologies
+Tools & Technologies
 
 Python: Data loading, cleaning, and EDA
 
@@ -28,7 +26,7 @@ Power BI: Interactive dashboards and visual analysis
 
 CSV / Excel: Data storage and intermediate outputs
 
-4. Project Workflow
+# Project Workflow
 Step 1: Data Loading
 
 Imported CSV data into Python using Pandas
@@ -69,7 +67,7 @@ Step 5: Power BI Dashboard
 
 Connected Power BI to MySQL
 
-Built interactive visuals including:
+Built interactive visuals, including:
 
 KPI cards (Total Sales, Customers, Discount Rate)
 
@@ -87,7 +85,7 @@ Trends and patterns
 
 Business recommendations
 
-5. Dashboard Highlights
+# Dashboard Highlights
 
 High-level KPIs for quick decision-making
 
@@ -95,7 +93,7 @@ Visual comparison across products and customer segments
 
 Interactive filtering for deeper insight exploration
 
-6. Results & Insights
+# Results & Insights
 
 Identified products with the highest discount usage
 
@@ -105,7 +103,7 @@ Highlighted opportunities to improve discount strategies and customer engagement
 
 Delivered insights through clear and impactful visual storytelling
 
-7. How to Run the Project
+# How to Run the Project
 Prerequisites
 
 Python 3.x
